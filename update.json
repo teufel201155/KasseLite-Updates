@@ -1,5 +1,6 @@
 {
-  "version": "2.0.4",
-  "url": "https://github.com/teufel201155/KasseLite-Updates/releases/download/2.0.4/KasseLite_Setup_2.0.4.exe",
-  "notes": "Laptopgrößen-Test entfernt"
+  "version": "2.0.5",
+  "url": "https://github.com/teufel201155/KasseLite-Updates/releases/download/2.0.5/KasseLite_Setup_2.0.5.exe",
+  "sha256": "2E12405CFBED56576176B568B4A5951935F6F361574A7D20319914CF468BC344",
+  "notes": "Bon-Drucker frei auswählbar, sicherere Druckerprüfung, einfachere Artikelverwaltung und verbesserte Updates und Backups"
 }
