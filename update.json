@@ -1,6 +1,6 @@
 {
-  "version": "2.0.5",
-  "url": "https://github.com/teufel201155/KasseLite-Updates/releases/download/2.0.5/KasseLite_Setup_2.0.5.exe",
-  "sha256": "2E12405CFBED56576176B568B4A5951935F6F361574A7D20319914CF468BC344",
-  "notes": "Bon-Drucker frei auswählbar, sicherere Druckerprüfung, einfachere Artikelverwaltung und verbesserte Updates und Backups"
+  "version": "2.0.6",
+  "url": "https://github.com/teufel201155/KasseLite-Updates/releases/download/2.0.6/KasseLite_Setup_2.0.6.exe",
+  "sha256": "54E2843C4AD1DD676378C35B36127F2443C3BE42E1187B70BD5B41E03C167985",
+  "notes": "Reservierungszeiten im 15-Minuten-Takt, dunkle Meldungsfenster und Kalender sowie korrigierte Auswertung"
 }
