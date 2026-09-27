@@ -1,6 +1,6 @@
 {
-  "version": "2.0.6",
-  "url": "https://github.com/teufel201155/KasseLite-Updates/releases/download/2.0.6/KasseLite_Setup_2.0.6.exe",
-  "sha256": "54E2843C4AD1DD676378C35B36127F2443C3BE42E1187B70BD5B41E03C167985",
-  "notes": "Reservierungszeiten im 15-Minuten-Takt, dunkle Meldungsfenster und Kalender sowie korrigierte Auswertung"
+  "version": "2.0.7",
+  "url": "https://github.com/teufel201155/KasseLite-Updates/releases/download/2.0.7/KasseLite_Setup_2.0.7.exe",
+  "sha256": "0d70b1e025452457b3e03058f2d050ba73e1256791ca65163bc2f21b2c7eb2a9",
+  "notes": "Dienstplan ergänzt, Verwaltung übersichtlicher aufgebaut und Tischbestellungen drucken neue Artikelbons mit Tischnummer."
 }
